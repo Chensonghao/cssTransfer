@@ -1,0 +1,25 @@
+{
+  "name": "css-transfer",
+  "version": "1.0.3",
+  "description": "cssToJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chensonghao/cssTransfer.git"
+  },
+  "author": {
+    "name": "chensonghao",
+    "email": "csh11122@sina.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chensonghao/cssTransfer/issues"
+  },
+  "homepage": "https://github.com/chensonghao/cssTransfer#readme",
+  "dependencies": {
+    "clean-css": "^3.4.21"
+  }
+}
